@@ -1,0 +1,10 @@
+{
+  "Name": "Peaceful Mines - No Combat",
+  "Author": "PeacefulMines",
+  "Version": "1.0.0",
+  "Description": "Removes all combat and monsters, replacing them with their dropped loot upon spawn so dungeons become peaceful exploration areas.",
+  "UniqueID": "PeacefulMines.Mod",
+  "EntryDll": "PeacefulMines.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

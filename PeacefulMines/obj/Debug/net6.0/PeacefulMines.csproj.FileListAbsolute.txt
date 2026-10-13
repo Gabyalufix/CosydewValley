@@ -1,0 +1,8 @@
+C:\Users\steph\PeacefulMines\obj\Debug\net6.0\PeacefulMines.csproj.AssemblyReference.cache
+C:\Users\steph\PeacefulMines\obj\Debug\net6.0\PeacefulMines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\PeacefulMines\obj\Debug\net6.0\PeacefulMines.AssemblyInfoInputs.cache
+C:\Users\steph\PeacefulMines\obj\Debug\net6.0\PeacefulMines.AssemblyInfo.cs
+C:\Users\steph\PeacefulMines\obj\Debug\net6.0\PeacefulMines.csproj.CoreCompileInputs.cache
+C:\Users\steph\PeacefulMines\bin\Debug\net6.0\PeacefulMines.deps.json
+C:\Users\steph\PeacefulMines\bin\Debug\net6.0\PeacefulMines.dll
+C:\Users\steph\PeacefulMines\obj\Debug\net6.0\PeacefulMines.dll

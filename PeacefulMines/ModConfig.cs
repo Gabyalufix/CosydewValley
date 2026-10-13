@@ -16,5 +16,8 @@ namespace PeacefulMines
 
         /// <summary>Whether the player is completely protected from taking monster damage as a safeguard.</summary>
         public bool PreventMonsterDamage { get; set; } = true;
+
+        /// <summary>Whether to re-theme in-game dialogue, the Adventurer's Guild, and Combat skill into Paleontology and field research.</summary>
+        public bool EnablePaleontologyTheme { get; set; } = true;
     }
 }
